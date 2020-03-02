@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mosaico Dorado</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">Esta aplicación necesita acceder a la cámara.</string>
+    <string name="camera_error">Este dispositivo no soporta el API Camera2.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Usar NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Hilos:</string>
+    <string name="inference_time">Tiempo de inferencia:</string>
+    <string name="rotation">Rotación:</string>
+    <string name="view">Vista:</string>
+    <string name="crop">Recorte:</string>
+    <string name="about_title">Acerca de...</string>
+    <string name="about_msg">Aplicación producto de proyecto de investigación IICA-CRIA con el apoyo financiero del Departamento de Agricultura de los Estados Unidos (USDA, por sus siglas en inglés).</string>
+    <string name="about_positive">Ver completo</string>
+    <string name="about_negative">Cancelar</string>
+
+    <string name="model">Modelo:</string>
+    <string-array name="models">
+        <item>Float</item>
+        <item>Quantized</item>
+    </string-array>
+
+    <string name="device">Dispositivos:</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+</resources>
