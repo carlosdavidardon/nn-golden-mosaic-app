@@ -2,7 +2,7 @@
 
 ## Funcionamiento
 
-Iniciar la aplicación y enfocar la hoja de muestra durante unos segundos hasta que la red neuronal estabilize su predicción. Es preferible que la hoja se encuentre sobre un fondo blanco y que el entorno se encuentre bien iluminado.
+Iniciar la aplicación y enfocar la hoja de muestra durante unos segundos hasta que la red neuronal estabilice su predicción. Es preferible que la hoja se encuentre sobre un fondo blanco y que el entorno se encuentre bien iluminado.
 
 <img src="images/app1.jpg?raw=true" />
 
